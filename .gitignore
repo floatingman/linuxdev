@@ -1,3 +1,6 @@
 /.vagrant
 /playbook.retry
 *.log
+.DS_Store
+ansible-desktop.retry
+ssh/

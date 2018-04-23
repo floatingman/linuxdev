@@ -1,5 +1,0 @@
----
-- name: Unbuntu desktop environment
-  hosts: all
-  roles:
-    - { role: desktop, become: true }
